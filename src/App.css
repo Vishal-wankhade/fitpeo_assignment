@@ -296,6 +296,7 @@
   justify-content: space-between;
   align-items: center;
   margin: 20px auto;
+   padding-top: 20px;
  }
 .dp{
   background-color: rgba(233, 240, 255, 0.523);
