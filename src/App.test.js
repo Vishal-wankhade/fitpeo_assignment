@@ -6,3 +6,5 @@ test('renders learn react link', () => {
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
+'rgba(108, 1, 189, 0.93)', // Blue for new customers
+'rgba(255, 0, 67, 0.89)',
