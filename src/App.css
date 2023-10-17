@@ -15,7 +15,6 @@
   height: 840px;
   width: 95%;
   position: absolute;
-  
   left:50%;
   transform: translate(-50%,0%);
   margin:0px;
@@ -24,8 +23,7 @@
   justify-content: space-between;
 
 }
-.sidebar{
- 
+.sidebar{ 
   height:100%;
   width: 20%;
   position: relative;
@@ -33,7 +31,6 @@
   color:white;
 }
 .main{
-  border:1px solid red;
   height:100%;
   width: 80%;
   background-color: rgba(240, 248, 255, 0.651);
@@ -63,7 +60,6 @@
 }
 
 .menu-wrap ul{
- 
   height:100%;
   width: 100%;
   margin: 0px;
@@ -157,7 +153,6 @@
   height: 35px;
   width: 90%;
   margin : 20px auto;
-  border:1px solid black;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -269,14 +264,12 @@
   height: 270px;
   width: 90%;
   margin: 20px auto;
-
   display: flex;
   justify-content: space-between;
 }
 .bar{
   height: 100%;
   width: 70%;
- 
   border-radius: 10px;
   overflow: hidden;
   background-color: white;
@@ -284,7 +277,6 @@
 .pie{
   height: 100%;
   width: 26%;
-
   border-radius: 10px;
   overflow: hidden;
   background-color: white;
@@ -294,7 +286,6 @@
   height: 300px;
   width: 90%;
   margin:20px auto;
- 
   background-color: white;
   border-radius: 10px;
  }
